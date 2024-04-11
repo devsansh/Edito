@@ -1,2 +1,2 @@
-# Edotor-Text-Editor
-A C/C++ based minimal text editor.
+# Edito
+A C++ based minimal text editor.
